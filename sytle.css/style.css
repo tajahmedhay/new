@@ -1,0 +1,134 @@
+.container{
+    position: relative;
+   padding: 20px 20px ;
+    
+    
+}
+.container img{
+    width: 1330px;
+    height: 660px;
+    border-radius: 10px;
+ }
+.text{
+    color: white;
+    position: absolute;
+  top: 290px;
+  
+  right: 60px;
+  font-size: 18px;
+  
+}
+.container .btn{
+    color: darkblue;
+    width: 100px;
+    height: 35px;
+   border-radius: 10px;
+   border: grey;
+   margin-left: 220px;
+ 
+   
+}
+.container .all{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.my-future{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    color: black;
+   
+   
+}
+.previous{
+text-align: justify;
+margin-top: 230px;
+margin-left: 109px;
+
+}
+.previous i {
+   color: blue;
+}
+.previous h1{
+    font-size: 35px;
+}
+
+.My-Plans{
+    font-size: 60px;
+    margin-left: 630px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ 
+.plan{
+ display: flex;
+ justify-content: center;
+ margin-top: 30px;
+ margin-bottom: 50px;
+}
+
+.plan .Developmenr{
+    text-align: center;
+    padding: 35px;
+}
+.plan .Developmenr p{
+    color: #747474;
+}
+
+.cover img{
+    
+    position: relative;
+    width: 799px;
+    margin-left: 259px;
+    border-radius: 5px;
+}
+.cover .keep{
+    position: absolute;
+   padding-left: 300px;
+   top: 1980px;
+    
+}
+.cover .gradient{
+   position: absolute;
+   left: 8.5px;
+}
+.cover .keep .btn{
+    color: darkblue;
+    width: 100px;
+    height: 35px;
+   border-radius: 10px;
+   border: grey;
+}
+.cover .keep h1{
+    font-size: 27px;
+}
+footer{
+    
+  color: antiquewhite;
+    display: flex;
+    background-color: black;
+    height: 400px;
+    margin: 0px ;
+    margin-top: 100px;
+   justify-content: center;
+   
+}
+footer .Subscribe{
+    margin-left: 70px;
+}
+footer .Subscribe .email{
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 12px;
+}
+footer .Subscribe .btn{
+    color: orangered;
+   padding: 15px 25px;
+
+}
+footer div{
+    margin-top: 40px;
+}
